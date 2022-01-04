@@ -17,7 +17,7 @@ Also comment out the global upload_res , return global_res variable in DEV envir
 
 Set the following Environment Variables to run from Lambda Function
 
-BUCKET_NAME=abhi-itv
-FILE_PREFIX=sandbox
-BASELINE_FILE=2022-01-03-20.json.gz
-BOOKMARK_FILE=bookmark
+BUCKET_NAME=abhi-itv 
+FILE_PREFIX=sandbox 
+BASELINE_FILE=2022-01-03-20.json.gz 
+BOOKMARK_FILE=bookmark 
